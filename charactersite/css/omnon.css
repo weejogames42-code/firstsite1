@@ -1,0 +1,9 @@
+body {background-image: url(https://t3.ftcdn.net/jpg/03/08/48/88/360_F_308488812_ejSJzgbDb7pEhRZtkA2SIooRcRofzGdT.jpg)}
+h1 {color: rgb(0, 0, 0); font-size: 100px;}
+section, header {overflow: hidden;}
+h1 {background: rgba(255, 255, 255, 0.377); }
+h2, p, header {font-size: 50px;font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+img {float:left;}
+footer {font-size: 30px;}
+body {text-align: center;}
+
