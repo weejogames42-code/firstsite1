@@ -1,0 +1,8 @@
+:root{
+    --bs-primary:#1c4a2a;
+    --bs-primary-rgb:28, 74, 42;
+}
+i{
+    font-size: 1.5rem;
+    margin: auto 10px
+}
